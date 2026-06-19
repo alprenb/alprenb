@@ -9,7 +9,7 @@ Otonom Sistemler: Teknofest Robotaksi yarışmaları kapsamında otonom araç al
 
 ### 🚀 Öne Çıkan Projelerim
 * [📡 dsPIC33EP128GP502 Ultrasonik Radar Sistemi]https://github.com/alprenb/dspic33ep128gp502--ultrasonic-radar-/tree/main
-* [⚡ 4-Katmanlı 10A Buck Converter Tasarımı]
+* [⚡ 4-Katmanlı 10A Buck Converter Tasarımı]https://github.com/alprenb/Design-of-a-4-Layer-10A-Buck-Converter
 
 
 💻 Kullandığım Araçlar
